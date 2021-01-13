@@ -1,13 +1,29 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+    <!-- SEO -->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="author" content="Leonardo A.">
+    <meta name="description" content="DevSec - Desenvolvimento profissional de websites e sistemas. " />
+    <meta name="keywords" content="desenvolvimento web,seo,marketing digital,programação,web design,front-end,web developer,back-end,php" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta property="og:title" content="DevSec - Desenvolvimento Profissional">
+    <meta property="og:site_name" content="DevSec">
+    <meta property="og:description" content="DevSec - Programação Web e Marketing Digital.">
+    <meta property="og:url" content="https://portifolioleodev.herokuapp.com/">
+    <meta property="og:image" content="https://portifolioleodev.herokuapp.com/images/person.jpg">
+    <meta property="og:image:type" content="image/jpeg">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Links -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/glide.core.min.css">
     <link rel="stylesheet" href="css/glide.theme.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="https://portifolioleodev.herokuapp.com/images/og-img.ico" type="image/x-icon" />
     <title>Portifólio - Léo A.</title>
 </head>
 <body>

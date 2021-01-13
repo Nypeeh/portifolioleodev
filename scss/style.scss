@@ -406,7 +406,7 @@ section.certificados {
       .w50 {padding: 0 20px;}
 
       .img-certificado {
-        text-align: right !important;
+        text-align: right;
       }
 
       .descricao-certificado {
@@ -432,7 +432,7 @@ section.certificados {
 }
 
 section.projetos {
-    padding: 60px 0;
+    padding: 10px 0;
     background-image: linear-gradient(#660099, #950070);
     background-repeat: no-repeat;
     background-size: cover;
@@ -550,11 +550,20 @@ section.projetos {
   .box-especialidades {width: 90% !important;}
   .wraper-projetos {display: block !important;}
   .box-projeto {width: 80% !important;}
+  .img-certificado {text-align: center !important;}
 }
 
 @media (max-width:500px) {
     .chamada-main {
         h4 {font-size: 20px !important;}
         textarea {font-size: 26px !important;}
+    }
+
+    header {
+      nav.desktop {
+        li {
+          margin-bottom: 16px !important;
+        }
+      }
     }
 }

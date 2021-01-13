@@ -13,7 +13,7 @@ var glide = new Glide('.glide', {
         dragThreshold: 120,
         },
         480: {
-        perView: 1,
+        perView: 2,
         dragThreshold: 120,
         }
     }

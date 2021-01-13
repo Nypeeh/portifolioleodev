@@ -324,7 +324,7 @@ section.certificados {
     section.certificados .certificados-wraper .certificados-single .w50 {
       padding: 0 20px; }
     section.certificados .certificados-wraper .certificados-single .img-certificado {
-      text-align: right !important; }
+      text-align: right; }
     section.certificados .certificados-wraper .certificados-single .descricao-certificado h2 {
       font-family: 'IBM Plex Sans', sans-serif;
       color: #9c0d95;
@@ -340,7 +340,7 @@ section.certificados {
       line-height: 150%; }
 
 section.projetos {
-  padding: 60px 0;
+  padding: 10px 0;
   background-image: linear-gradient(#660099, #950070);
   background-repeat: no-repeat;
   background-size: cover;
@@ -425,11 +425,15 @@ section.projetos {
     display: block !important; }
 
   .box-projeto {
-    width: 80% !important; } }
+    width: 80% !important; }
+
+  .img-certificado {
+    text-align: center !important; } }
 @media (max-width: 500px) {
   .chamada-main h4 {
     font-size: 20px !important; }
   .chamada-main textarea {
-    font-size: 26px !important; } }
+    font-size: 26px !important; }
 
-/*# sourceMappingURL=style.css.map */
+  header nav.desktop li {
+    margin-bottom: 16px !important; } }

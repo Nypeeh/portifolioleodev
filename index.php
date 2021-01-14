@@ -127,7 +127,7 @@
 
                     <div class="w50 descricao-certificado">
                         <h2>Curso FrontEnd Completo</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, quam at non nihil possimus, aspernatur est esse corporis vel perferendis totam porro recusandae nobis maiores iusto inventore ipsa beatae culpa.</p>
+                        <p>Especializado em Frond End pela empresa líder de cursos de desenvolvimento web atualmente no Brasil.</p>
                     </div><!--w50-->
                     <div class="clear"></div><!--clear-->
                 </div><!--certificados-single-->
@@ -139,7 +139,7 @@
 
                     <div class="w50 descricao-certificado">
                         <h2>Curso Desenvolvimento Web</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, quam at non nihil possimus, aspernatur est esse corporis vel perferendis totam porro recusandae nobis maiores iusto inventore ipsa beatae culpa.</p>
+                        <p>Sólidos conhecimentos em Desenvolvimento de Sistemas Web, com uma enorme vondade de aprender.</p>
                     </div><!--w50-->
                     <div class="clear"></div><!--clear-->
                 </div><!--certificados-single-->
@@ -151,7 +151,7 @@
 
                     <div class="w50 descricao-certificado">
                         <h2>Curso Infraestrutura</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, quam at non nihil possimus, aspernatur est esse corporis vel perferendis totam porro recusandae nobis maiores iusto inventore ipsa beatae culpa.</p>
+                        <p>Experiência em gerenciamento de servidor e Infraestrutura, sempre aprendendo cada vez mais.</p>
                     </div><!--w50-->
                     <div class="clear"></div><!--clear-->
                 </div><!--certificados-single-->

@@ -163,7 +163,7 @@
 
 
     <section id="projetos" class="projetos">
-            <h2 data-aos="fade-up" data-aos-duration="1000" class="title"><i class="fas fa-check"></i>&nbsp; Projetos Concluidos &nbsp;<i class="fas fa-check"></i></h2><!--title-->
+            <h2 data-aos="fade-up" data-aos-duration="1000" class="title"><i class="fas fa-check"></i>&nbsp; Projetos Concluídos &nbsp;<i class="fas fa-check"></i></h2><!--title-->
 
                 <!-- Slider -->
                 <div data-aos="fade-up" data-aos-duration="1000" class="glide2">
